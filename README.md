@@ -1,6 +1,19 @@
-# CMIP6 Hackathon Project Template
+# CMIP6 Hackathon - Precipitation 
 
-[This template](https://github.com/cmip6hack/project-template) provides a starting point for [CMIP6 Hackathon](https://cmip6hack.github.io/#/) projects.
+Teammates: you will want to "Fork" the project, and then "clone" your fork to your local computer [(more on forking and cloning)](https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372). Then later you can merge your changes back to your remote fork, and from there back to the main branch. 
+
+
+Once the initial setup is done, everyone will want to clone the repository onto the compute system they plan to use for the hackathon.
+
+1. Open a JupyterLab session on the system you plan to use.
+1. Open a terminal in the JupyterLab environment.
+1. Clone your project: `git clone https://github.com/apendergrass/cmip6hack-precip.git`
+1. Get to work!
+
+
+
+
+[The CMIP6 Hackathon template](https://github.com/cmip6hack/project-template) provides a starting point for [CMIP6 Hackathon](https://cmip6hack.github.io/#/) projects.
 
 ### What's included?
 
