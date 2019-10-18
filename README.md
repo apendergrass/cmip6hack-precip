@@ -1,5 +1,9 @@
 # CMIP6 Hackathon - Precipitation 
 
+### Goal: Update the following figure to CMIP6 data (from [this paper](https://www.nature.com/articles/s41598-017-17966-y))
+
+![alt text](./fig3.png)
+
 Teammates: you will want to "Fork" the project, and then "clone" your fork to your local computer [(more on forking and cloning)](https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372). Then later you can merge your changes back to your remote fork, and from there back to the main branch. 
 
 
