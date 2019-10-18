@@ -1,5 +1,7 @@
 # CMIP6 Hackathon - Precipitation 
 
+![alt text](./fig3.png)
+
 Teammates: you will want to "Fork" the project, and then "clone" your fork to your local computer [(more on forking and cloning)](https://github.community/t5/Support-Protips/The-difference-between-forking-and-cloning-a-repository/ba-p/1372). Then later you can merge your changes back to your remote fork, and from there back to the main branch. 
 
 
