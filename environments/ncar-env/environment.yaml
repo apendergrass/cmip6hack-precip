@@ -1,4 +1,4 @@
-name: CMIP6-201910
+name: CMIP6-201910-precip
 channels:
 - conda-forge
 dependencies:
@@ -37,7 +37,6 @@ dependencies:
 - holoviews
 - hvplot
 - intake
-# - intake-esm # pending merge of git+https://github.com/andersy005/intake-esm.git@refactor#egg=intake-esm
 - intake-stac
 - intake-xarray
 - ipyleaflet
@@ -115,6 +114,6 @@ dependencies:
 - zarr
 - pip:
   - git+https://github.com/ian-r-rose/dask-labextension.git@de-asyncify#egg=dask_labextension
-  - git+https://github.com/andersy005/intake-esm.git@refactor#egg=intake-esm
+  - git+https://github.com/NCAR/intake-esm.git
   - graphviz
   - ncar-jobqueue
